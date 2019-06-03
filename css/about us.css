@@ -1,212 +1,213 @@
 * {
-	margin: 0;
-	padding: 0;
-	font-family: "微软雅黑";
+    margin: 0;
+    padding: 0;
+    font-family: "微软雅黑";
 }
 
 .bighz {
-	display: none;
-	position: fixed;
-	right: 10px;
-	top: 50%;
-	transform: translateY(-50%);
-	z-index: 99;
-	background: white;
-	width: 380px;
-	height: 430px;
-	border-radius: 8px;
-	border: 10px solid #036eb8;
-	padding: 5px;
+    display: none;
+    position: fixed;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 99;
+    background: white;
+    width: 380px;
+    height: 430px;
+    border-radius: 8px;
+    border: 10px solid #036eb8;
+    padding: 5px;
 }
 
 .bighz h3 {
-	width: 20px;
-	height: 20px;
-	text-align: center;
-	line-height: 20px;
-	position: absolute;
-	right: 6px;
-	top: -14px;
-	background: #036eb8;
-	color: white;
-	border-radius: 50%;
-	z-index: 100;
-	cursor: pointer;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    position: absolute;
+    right: 6px;
+    top: -14px;
+    background: #036eb8;
+    color: white;
+    border-radius: 50%;
+    z-index: 100;
+    cursor: pointer;
 }
 
 .tab-content>.active {
-	background-color: #fff;
+    background-color: #fff;
 }
 
 .nav-tabs>.active {
-	background-color: #fff;
+    background-color: #fff;
 }
 
 .hezi1 {
-	width: 350px;
-	height: 400px;
-	border: 1px solid #CCCCCC;
-	border-radius: 8px;
-	padding: 5px;
+    width: 350px;
+    height: 400px;
+    border: 1px solid #CCCCCC;
+    border-radius: 8px;
+    padding: 5px;
 }
 
 .hezi2 p {
-	margin-top: 10px;
-	width: 320px;
-	color: #CCCCCC;
+    margin-top: 10px;
+    width: 320px;
+    color: #CCCCCC;
 }
 
 .hezi3 p {
-	font-size: 16px;
-	margin: 20px;
-	color: #666666;
+    font-size: 16px;
+    margin: 20px;
+    color: #666666;
 }
 
 .hezi3 p:nth-of-type(4) {
-	color: #bc2721;
+    color: #bc2721;
 }
 
 .scrollTop {
-	z-index: 99;
-	display: none;
-	cursor: pointer;
-	position: fixed;
-	right: 20px;
-	bottom: 20px;
+    z-index: 99;
+    display: none;
+    cursor: pointer;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
 }
 
 .daohan1 ul li {
-	height: 50px;
-	border-right: 1px solid #e1d5c8;
+    height: 50px;
+    border-right: 1px solid #e1d5c8;
 }
 
 .daohan1 a:nth-of-type(1) {
-	font-size: 14px;
-	color: #c92027;
+    font-size: 14px;
+    color: #c92027;
 }
 
 .daohan2 {
-	margin-top: 26px;
-	margin-bottom: 26px;
+    margin-top: 26px;
+    margin-bottom: 26px;
 }
 
 .navbar-inverse {
-	border-color: #b92323 !important;
+    border-color: #b92323 !important;
 }
 
 .daohan3 {
-	margin-bottom: 0 !important;
-	width: 100%;
-	background: #b92323 !important;
+    margin-bottom: 0 !important;
+    width: 100%;
+    background: #b92323 !important;
 }
 
 .daohan3 li {
-	padding-left: 12px;
-	padding-right: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 
 .daohan3 li a {
-	font-size: 17px;
-	color: white !important;
+    font-size: 17px;
+    color: white !important;
 }
 
 .daohan3 li:hover {
-	background: white;
+    background: white;
 }
 
 .daohan3 li:hover a {
-	color: #666666 !important;
+    color: #666666 !important;
 }
 
 .bjt {
-	height: 400px;
-	background-image: URL(../image/广州金思维装饰工程有限公司欢迎您！_02.jpg);
-	background-position: top center;
-	background-repeat: no-repeat;
+    height: 400px;
+    background-image: URL(../image/广州金思维装饰工程有限公司欢迎您！_02.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 em {
-	margin-left: 30px;
-	font-size: 24px;
+    margin-left: 30px;
+    font-size: 24px;
 }
 
 .a {
-	color: #cb1d1e;
-	margin: 30px 0;
+    color: #cb1d1e;
+    margin: 30px 0;
 }
 
 .b p {
-	text-indent: 2em;
-	line-height: 40px;
-	font-size: 16px;
+    text-indent: 2em;
+    line-height: 40px;
+    font-size: 16px;
 }
 
 .c p:nth-of-type(1) {
-	font-size: 18px;
-	font-weight: 600;
+    font-size: 18px;
+    font-weight: 600;
 }
 
 .c p:nth-of-type(3),
 .c p:nth-of-type(2) {
-	color: #cb1d1e;
-	font-size: 18px;
-	font-weight: 600;
+    color: #cb1d1e;
+    font-size: 18px;
+    font-weight: 600;
 }
 
 .d {
-	margin-top: 50px;
-	font-size: 12px;
-	color: white;
-	background: #34393f;
+    margin-top: 50px;
+    font-size: 12px;
+    color: white;
+    background: #34393f;
 }
 
 .d li {
-	margin-bottom: 10px;
-	margin-left: 30px;
-	width: 390px;
-	float: left;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    width: 390px;
+    float: left;
 }
 
 .d>.container {
-	margin-top: 30px;
-	margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 .d p {
-	font-size: 14px;
-	margin-top: 10px;
-	color: #999999;
+    font-size: 14px;
+    margin-top: 10px;
+    color: #999999;
 }
 
 li {
-	list-style: none;
+    list-style: none;
 }
 
 .mb li {
-	cursor: pointer;
-	margin-bottom: 10px;
-	margin-left: 24px;
-	margin-right: 24px;
-	float: left;
-	position: relative;
-	width: 180px;
-	height: 84px;
-	overflow: hidden;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 24px;
+    margin-right: 24px;
+    float: left;
+    position: relative;
+    width: 180px;
+    height: 84px;
+    overflow: hidden;
 }
 
 .mb li img {
-	width: 100%;
+    width: 100%;
 }
 
 .mb div {
-	left: 0;
-	top: 0;
-	background: rgba(0, 0, 0, .8);
-	transition: all 1s;
-	opacity: 0;
-	position: absolute;
-	width: 180px;
-	height: 84px;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, .8);
+    transition: all 1s;
+    opacity: 0;
+    position: absolute;
+    width: 180px;
+    height: 84px;
 }
 
 
@@ -215,74 +216,74 @@ li {
 }*/
 
 .mb p {
-	font-size: 16px;
-	color: white;
-	position: absolute;
-	left: -150px;
-	width: 100%;
-	top: 50%;
-	transform: translateY(-50%);
-	text-align: center;
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    left: -150px;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
 }
 
 .imgs1 {
-	height: 257px;
+    height: 257px;
 }
 
 .imgs1 li {
-	cursor: pointer;
-	margin: 30px 70px;
-	float: left;
+    cursor: pointer;
+    margin: 30px 70px;
+    float: left;
 }
 
 .imgs2 {
-	height: 158px;
+    height: 158px;
 }
 
 .imgs2 li {
-	cursor: pointer;
-	position: relative;
-	margin: 0 35px;
-	float: left;
+    cursor: pointer;
+    position: relative;
+    margin: 0 35px;
+    float: left;
 }
 
 .imgs2 p {
-	display: none;
-	width: 157px;
-	height: 157px;
-	border-radius: 50%;
-	position: absolute;
-	left: 0;
-	top: 0;
-	background: rgba(0, 0, 0, .3);
-	color: white;
-	text-align: center;
-	line-height: 157px;
-	font-size: 16px;
-	transition: all 5s;
+    display: none;
+    width: 157px;
+    height: 157px;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, .3);
+    color: white;
+    text-align: center;
+    line-height: 157px;
+    font-size: 16px;
+    transition: all 5s;
 }
 
 .imgs2 li:hover p {
-	cursor: pointer;
-	display: block;
+    cursor: pointer;
+    display: block;
 }
 
 .imgs3 {
-	height: 218px;
+    height: 218px;
 }
 
 .imgs3 li {
-	cursor: pointer;
-	margin: 0px 19px;
-	float: left;
+    cursor: pointer;
+    margin: 0px 19px;
+    float: left;
 }
 
 .imgs4 li {
-	cursor: pointer;
-	width: 164px;
-	height: 157px;
-	margin: 6px 32px;
-	float: left;
+    cursor: pointer;
+    width: 164px;
+    height: 157px;
+    margin: 6px 32px;
+    float: left;
 }
 
 
@@ -292,55 +293,55 @@ li {
 }*/
 
 .imgs4 li p {
-	font-size: 12px;
+    font-size: 12px;
 }
 
 .imgs4 li:hover p {
-	color: darkred;
+    color: darkred;
 }
 
 .imgs5 li {
-	cursor: pointer;
-	margin: 6px 17px;
-	float: left;
+    cursor: pointer;
+    margin: 6px 17px;
+    float: left;
 }
 
 .imgs5 li p {
-	margin: 14px 0px;
-	font-size: 18px;
-	font-weight: 600;
+    margin: 14px 0px;
+    font-size: 18px;
+    font-weight: 600;
 }
 
 .imgs6 {
-	height: 552px;
+    height: 552px;
 }
 
 .imgs6 li {
-	cursor: pointer;
-	padding: 4px;
-	width: 240px;
-	height: 172px;
-	border-radius: 8px;
-	box-sizing: border-box;
-	border: 1px solid #CCCCCC;
-	margin: 6px 22px;
-	float: left;
+    cursor: pointer;
+    padding: 4px;
+    width: 240px;
+    height: 172px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    border: 1px solid #CCCCCC;
+    margin: 6px 22px;
+    float: left;
 }
 
 .imgs6 li img {
-	width: 230px;
-	display: block;
+    width: 230px;
+    display: block;
 }
 
 .imgs6 li p {
-	font-size: 18px;
-	font-weight: 400;
+    font-size: 18px;
+    font-weight: 400;
 }
 
 .imgs6 li :hover+p {
-	color: darkred;
+    color: darkred;
 }
 
 .imgs5 li :hover+p {
-	color: darkred;
+    color: darkred;
 }
